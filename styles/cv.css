@@ -1,0 +1,20 @@
+.education {
+  font-size: 18px;
+  font-weight: bold;
+  line-height: 24px;
+  margin-bottom: 10px;
+}
+
+.theatre {
+  font-size: 16px;
+  font-style: italic;
+  line-height: 22px;
+  margin-bottom: 10px;
+}
+
+.cinema {
+  font-size: 16px;
+  font-weight: bold;
+  line-height: 22px;
+  margin-bottom: 10px;
+}

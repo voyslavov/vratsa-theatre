@@ -1,0 +1,28 @@
+.article-container {
+  color: white;
+  display: flex;
+  flex-direction: column;
+  text-align: justify;
+  padding: 25px;
+  border-radius: 10px;
+}
+
+.blue {
+  background-color: rgb(124, 124, 204);
+}
+
+.yellow {
+  background-color: rgb(143, 143, 11);
+}
+
+.lightred {
+  background-color: lightpink;
+}
+
+.grey {
+  background-color: rgb(186, 183, 183);
+}
+
+.lightgreen {
+  background-color: lightgreen;
+}
